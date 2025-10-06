@@ -4,8 +4,8 @@
   "description": "A cute My Melody themed to-do list",
   "start_url": "/my-melody-to-do/",
   "display": "standalone",
-  "background_color": "#ffe6f2",
-  "theme_color": "#ff66b2",
+  "background_color": "#FFE6EB",
+  "theme_color": "##FFB8C6",
   "icons": [
     {
       "src": "my-icon.jpg",
@@ -14,4 +14,5 @@
     }
   ]
 }
+
 
