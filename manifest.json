@@ -2,7 +2,7 @@
   "name": "My Melody Todo",
   "short_name": "MelodyTodo",
   "description": "A cute My Melody themed to-do list",
-  "start_url": "/",
+  "start_url": "/my-melody-to-do/",
   "display": "standalone",
   "background_color": "#ffe6f2",
   "theme_color": "#ff66b2",
@@ -14,3 +14,4 @@
     }
   ]
 }
+
